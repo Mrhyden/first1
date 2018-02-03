@@ -1,0 +1,125 @@
+table.one{
+    position:relative;
+    background-color: aqua;
+    float:left;
+    width:33.33%;
+    height: 300px;
+    overflow: scroll;
+  
+}
+table.two{
+    overflow::scroll;
+    position:relative;
+    margin-left:33.33%;
+    width: 33.33%;
+    height:300px;
+    background-color:gray;
+}
+
+table.three{
+    position: relative;
+    margin-top:-300px;
+    margin-left:66.66%;
+    width:33.33%;
+    height:300px;
+    background-color: rgb(192, 212, 9)
+}
+table.four{ 
+    position: relative;
+    float:left;
+    width:33.33%;
+    height:300px;
+    background-color: rgb(150, 189, 61)
+
+}
+table.five{ 
+    position: relative;
+    margin-left:33.33%;
+    width:33.33%;
+    height:300px;
+    background-color: rgb(192, 22, 22)
+}
+table.six{
+    position: relative;
+    margin-top:-300px;
+    margin-left:66.66%;
+    width:33.33%;
+    height:300px;
+    background-color: rgb(30, 50, 235)
+}
+table.seven{
+    position: relative;
+    float:left;
+    width:33.33%;
+    height:300px;
+    background-color: rgb(99, 133, 197)
+}
+table.eight{
+    position: relative;
+    margin-left:33.33%;
+    width:33.33%;
+    height:300px;
+    background-color: rgb(233, 87, 177)
+}
+table.nine{
+    position: relative;
+    margin-top:-300px;
+    margin-left:66.66%;
+    width:33.33%;
+    height:300px;
+    background-color: rgb(31, 179, 51)
+}
+.box{
+    float:left;
+    width:200px;
+    height:100px;
+    margin:1em;
+    border-style:solid;
+    border-bottom-color: aqua;
+    background-color: rgb(11, 192, 65);
+}
+.after-box{
+    clear:left;
+}
+.section{
+    background-color: brown;
+    color:white;
+}
+p{
+    color:rgb(0, 255, 42)
+}
+
+.div1{
+    height:150px;
+    margin:5px;
+    overflow:auto;
+    zoom:1;
+    background-color:rgb(29, 110, 175)
+}
+.div2{
+    float:left;
+    width: 300px;
+    height:100px;
+    background-color:rgb(60, 173, 37)  
+}
+.div3{
+    float:right;
+    width:300px;
+    height:100px;
+    background-color: brown
+}
+.box1{
+    float:left;
+    width:100px;
+    height:100px;
+    margin:1em;
+    border:solid red;
+    background-color:greenyellow;
+}
+
+.aaa{
+    float:left;
+    position:relative;
+    border:solid green;
+    background-color:red;
+}
